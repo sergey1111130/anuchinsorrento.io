@@ -1,0 +1,121 @@
+body {background: }
+a {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 2px 3px;
+  margin: 1px 2px;
+  border-radius: 10px;
+  font-family: Time New Roman;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, black 50%, #4830F0 45%);
+  background-image:url(https://img.freepik.com/free-vector/_1017-20135.jpg?size=626&ext=jpg);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .2s;
+}
+a:hover 
+{
+background-position: right center;
+}
+
+.uc_plants_header *{
+	margin:0;
+	padding:0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	
+}
+
+.uc_plants_header{
+	position:relative;
+	width:100%;
+}
+
+.uc_plants_header img{
+	width:100%;
+	display: block;
+}
+
+.uc_plants_header .uc_container_text_box{ 
+	 border: 20px solid #ffffff;
+    left: 53%;
+    margin-left: -500px;
+    padding: 6px 0;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 914px;
+	
+}
+
+.uc_top-text{
+	font-family: Time New Roman;
+	 font-size: 30px;
+	 text-transform: uppercase;
+	 letter-spacing:6px;
+	 font-weight:450;
+	 color: white;
+	 opacity: 100;
+}
+.uc_plants_header .uc_container_text_box h1{
+	font-size:4vw;
+	font-family: Time New Roman;
+	font-weight:300;
+	color:White;	
+	line-height: 74px;
+	 letter-spacing:20px;
+	 padding:30px 0;
+	 background:url(border.jpg) no-repeat bottom center;
+	 width: 500px;
+	 text-align: center;
+	   margin: 0 auto;
+}
+
+ 
+form .row {
+display: block;
+padding: 7px 8px;
+margin-bottom: 7px;
+}
+
+
+form label {
+
+display: inline-block;
+font-size: 1.2em;
+font-weight: bold;
+width: 120px;
+padding: 6px 0;
+color: #464646;
+vertical-align: top;
+}
+form .req { 
+
+color: #ca5354; 
+}
+
+form .note {
+
+font-size: 1.2em;
+line-height: 1.33em;
+font-weight: normal;
+padding: 2px 7px;
+margin-bottom: 10px;
+}
+
+
+form .txt {
+display: inline-block;
+padding: 8px 9px;
+padding-right: 30px;
+width: 240px;
+font-family: 'Oxygen', sans-serif;
+font-size: 1.35em;
+font-weight: normal;
+color: #898989;
+}

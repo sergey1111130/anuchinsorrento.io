@@ -1,0 +1,22 @@
+body {background: }
+a {
+  position: margin-right;
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 2px 3px;
+  margin: 1px 2px;
+  border-radius: 10px;
+  font-family: Time New Roman;
+  text-transform: uppercase;
+  letter-spacing: 2%;
+  background-image: linear-gradient(to right, black 50%, #4830F0 45%);
+  background-image:url(https://img.freepik.com/free-vector/_1017-20135.jpg?size=626&ext=jpg);
+  background-size: 200% auto;
+  
+  transition: .2s;
+}
+a:hover 
+{
+background-position: right;
